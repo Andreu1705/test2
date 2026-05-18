@@ -15,4 +15,4 @@
 
 ## Запуск
 ```bash
-python password_generator.py
+https://github.com/Andreu1705/test2/tree/main
